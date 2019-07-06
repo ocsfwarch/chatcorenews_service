@@ -1,5 +1,5 @@
 {
-  "name": "express-boilerplate",
+  "name": "chatcorenews_service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "node src/server.js",
     "predeploy": "npm audit",
     "deploy": "git push heroku master"
-    },
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
